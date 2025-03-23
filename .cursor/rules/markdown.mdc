@@ -1,0 +1,32 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Markdown記法のルール
+
+- MySTの記法を利用する
+    - https://myst-parser.readthedocs.io/
+- できるだけconf.pyのmyst_enable_extensionsに登録されている拡張を活用する
+
+## Definition Lists
+
+次のリストは定義リストにする。
+
+bad:
+
+```
+- **Term 1**: Definition
+- **Term 2**: Definition
+```
+
+good:
+
+```
+Term 1
+: Definition
+
+Term 2
+: Definition
+```

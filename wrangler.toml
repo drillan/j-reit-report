@@ -1,0 +1,4 @@
+# Cloudflare Pages設定
+name = "gold-report"
+compatibility_date = "2023-10-30"
+pages_build_output_dir = "_build/html"
