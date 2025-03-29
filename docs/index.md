@@ -15,6 +15,8 @@ economic_overview
 jreit_advantages
 sector_analysis
 investor_analysis
+stock_selection
+evaluation_methods
 investment_comparison
 risk_analysis
 quantitative_analysis
